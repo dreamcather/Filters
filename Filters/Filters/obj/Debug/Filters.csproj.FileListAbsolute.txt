@@ -1,0 +1,29 @@
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\bin\Debug\Filters.exe.config
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\bin\Debug\Filters.exe
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\bin\Debug\Filters.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\obj\Debug\Filters.exe
+c:\users\евгений\documents\visual studio 2015\Projects\Filters\Filters\obj\Debug\Filters.pdb
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\Filters\Filters\obj\Debug\Filters.myForm.resources
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\bin\Debug\Filters.exe.config
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\obj\Debug\Filters.exe
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\obj\Debug\Filters.pdb
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\bin\Debug\Filters.exe
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\bin\Debug\Filters.pdb
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\obj\Debug\Filters.myForm.resources
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Компьютерная графика\Filters\Filters\obj\Debug\Filters.Form2.resources
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\bin\Debug\Filters.exe.config
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\obj\Debug\Filters.exe
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\obj\Debug\Filters.pdb
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\bin\Debug\Filters.exe
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\bin\Debug\Filters.pdb
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\obj\Debug\Filters.myForm.resources
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
+D:\Компьютерная графика\Компьютерная графика\Filters\Filters\obj\Debug\Filters.Form2.resources
